@@ -1,0 +1,72 @@
+                             Feature Extraction
+
+Filename : 0.raw
+-----------------------------------------------------------------------------
+                 Area = 329
+             Centroid = (42.5, 36.8) based on x-y coordinate system
+            Perimeter = 82.2
+Axis of Least Inertia = 0.138 in degree based on x-y coordinate system
+-----------------------------------------------------------------------------
+
+
+
+                             Feature Extraction
+
+Filename : 1.raw
+-----------------------------------------------------------------------------
+                 Area = 148
+             Centroid = (9.09, 28.5) based on x-y coordinate system
+            Perimeter = 61.8
+Axis of Least Inertia = -0.297 in degree based on x-y coordinate system
+-----------------------------------------------------------------------------
+
+
+
+                             Feature Extraction
+
+Filename : 2.raw
+-----------------------------------------------------------------------------
+                 Area = 239
+             Centroid = (10.1, 29.3) based on x-y coordinate system
+            Perimeter = 105
+Axis of Least Inertia = 0.0501 in degree based on x-y coordinate system
+-----------------------------------------------------------------------------
+
+
+
+                             Feature Extraction
+
+Filename : 3.raw
+-----------------------------------------------------------------------------
+                 Area = 238
+             Centroid = (14.5, 27.7) based on x-y coordinate system
+            Perimeter = 108
+Axis of Least Inertia = -0.0181 in degree based on x-y coordinate system
+-----------------------------------------------------------------------------
+
+
+
+                             Feature Extraction
+
+Filename : 4.raw
+-----------------------------------------------------------------------------
+                 Area = 248
+             Centroid = (14.1, 26.6) based on x-y coordinate system
+            Perimeter = 71.1
+Axis of Least Inertia = -0.0855 in degree based on x-y coordinate system
+-----------------------------------------------------------------------------
+
+
+
+                             Feature Extraction
+
+Filename : 5.raw
+-----------------------------------------------------------------------------
+                 Area = 250
+             Centroid = (14.9, 28.1) based on x-y coordinate system
+            Perimeter = 113
+Axis of Least Inertia = -0.119 in degree based on x-y coordinate system
+-----------------------------------------------------------------------------
+
+
+
