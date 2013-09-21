@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		D9458568163ED9770081E112 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D9458567163ED9770081E112 /* main.cpp */; };
 		D945856A163ED9770081E112 /* CVProject_1.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = D9458569163ED9770081E112 /* CVProject_1.1 */; };
+		D945857B163F34780081E112 /* FileController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D945857A163F34770081E112 /* FileController.cpp */; };
+		D996F98E1640D62500A38277 /* FeatureExtractor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D996F98C1640D62500A38277 /* FeatureExtractor.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +30,9 @@
 		D9458563163ED9770081E112 /* CVProject_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CVProject_1; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9458567163ED9770081E112 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		D9458569163ED9770081E112 /* CVProject_1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = CVProject_1.1; sourceTree = "<group>"; };
+		D945857A163F34770081E112 /* FileController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileController.cpp; sourceTree = "<group>"; };
+		D996F98C1640D62500A38277 /* FeatureExtractor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FeatureExtractor.cpp; sourceTree = "<group>"; };
+		D996F98F164229AB00A38277 /* config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +67,9 @@
 			children = (
 				D9458567163ED9770081E112 /* main.cpp */,
 				D9458569163ED9770081E112 /* CVProject_1.1 */,
+				D945857A163F34770081E112 /* FileController.cpp */,
+				D996F98C1640D62500A38277 /* FeatureExtractor.cpp */,
+				D996F98F164229AB00A38277 /* config.h */,
 			);
 			path = CVProject_1;
 			sourceTree = "<group>";
@@ -118,6 +126,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9458568163ED9770081E112 /* main.cpp in Sources */,
+				D945857B163F34780081E112 /* FileController.cpp in Sources */,
+				D996F98E1640D62500A38277 /* FeatureExtractor.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +220,7 @@
 				D945856F163ED9770081E112 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
